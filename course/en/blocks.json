@@ -67,7 +67,8 @@
                 {
                     "_graphic": "course/en/images/bg2.jpg",
                     "_attributes": {
-                        "style": "height: 300%; width: 100%; background-size: cover;",
+                        "style": "height: 300%; width: 100%; background-size: cover; opacity: 0;",
+                        "prlx-subject-pc-start": "transform: translateY( -50% ); opacity: 0;",
                         "prlx-subject-pc--100-100": "transform: translateY( [ -p100 / 2 ]% ); opacity: [ip1];"
                     }
                 }
